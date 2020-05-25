@@ -1,0 +1,5 @@
+C:\M\ApiLojaCursos\Service\bin\Debug\Service.dll
+C:\M\ApiLojaCursos\Service\bin\Debug\Service.pdb
+C:\M\ApiLojaCursos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\M\ApiLojaCursos\Service\obj\Debug\Service.dll
+C:\M\ApiLojaCursos\Service\obj\Debug\Service.pdb

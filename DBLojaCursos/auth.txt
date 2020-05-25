@@ -1,0 +1,7 @@
+Root user
+{
+   login: root
+   password: root
+}
+Server Host: localhost
+Port: 3306

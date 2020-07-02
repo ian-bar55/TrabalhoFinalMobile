@@ -1,5 +1,11 @@
 {
   "name": "AppLojaCursos",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "proxies": [
+    {
+      "path": "http://localhost:55486/",
+      "proxyUrl": "http://localhost:55486/"
+    }
+  ]
 }

@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Minha Conta</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid *ngIf="conta">
+    <ion-row>
+      <ion-col><ion-label color="secondary">Nome</ion-label></ion-col>
+      <ion-col><ion-label color="secondary">Email</ion-label></ion-col>
+      <ion-col><ion-label color="secondary">Telefone</ion-label></ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col><ion-label color="light">{{conta.Nome}}</ion-label></ion-col>
+      <ion-col><ion-label color="light">{{conta.Email}}/ion-label></ion-col>
+      <ion-col><ion-label color="light">{{conta.Telefone}}</ion-label></ion-col>
+    </ion-row>
+  </ion-grid>
+  <ion-button color="danger" (click)="deslogar()">Sair</ion-button>
+</ion-content>

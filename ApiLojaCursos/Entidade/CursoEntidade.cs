@@ -13,10 +13,6 @@ namespace Entidade
         public string Duracao { get; set; }
         public string Autor { get; set; }
         public string Descricao { get; set; }
-        public string Imagem { get; set; }
-        public string Imagem2 { get; set; }
-        public string Imagem3 { get; set; }
-        public string Imagem4 { get; set; }
         public decimal Valor { get; set; }
         public string Observacoes { get; set; }
         public string PalavrasChave { get; set; }
@@ -25,5 +21,6 @@ namespace Entidade
         public string Tecnologias { get; set; }
         public decimal? Avaliacao { get; set; }
         public int? NumAvaliadores { get; set; }
+        public long ID_Distribuidora { get; set; }
     }
 }

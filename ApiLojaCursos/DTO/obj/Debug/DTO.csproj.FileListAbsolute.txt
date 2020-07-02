@@ -1,0 +1,13 @@
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\DTO.dll
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\DTO.pdb
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\Newtonsoft.Json.dll
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\System.Net.Http.Formatting.dll
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\System.Web.Http.Cors.dll
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\System.Web.Http.dll
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\System.Net.Http.Formatting.xml
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\System.Web.Http.xml
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\bin\Debug\System.Web.Http.Cors.xml
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\obj\Debug\DTO.dll
+D:\TrabalhoFinalMobile\ApiLojaCursos\DTO\obj\Debug\DTO.pdb
